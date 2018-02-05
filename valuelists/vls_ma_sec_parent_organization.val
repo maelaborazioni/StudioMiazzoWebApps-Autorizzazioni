@@ -1,0 +1,12 @@
+addEmptyValue:0,
+customValues:null,
+dataProviderID1:null,
+dataProviderID2:null,
+dataSource:null,
+name:"vls_ma_sec_parent_organization",
+relationName:null,
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"EFDD97FA-CC18-4203-BA05-A8F095D7FC8A",
+valueListType:0
